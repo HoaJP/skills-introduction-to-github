@@ -1,2 +1,3 @@
 Welcome to my GitHub profile!
-I test gitHub with this line.
+I test git push gitHub with this line.
+I test git pull gitHub with this line.
